@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+  }
+  
+  span {
+    display: inline-block;
+  }
+  
+#pictures span {
+    border: 1px solid black;
+  } 
